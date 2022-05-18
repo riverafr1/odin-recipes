@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caramelized French Toast</title>
+</head>
+<body>
+    <h1>Caramelized French Toast</h1>
+    <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1029024.jpg">
+    <h2>Description</h2>
+    <p>Have a tasty breakfast with caramelized french toast. It is a great subsitute for sticky cinnamon rolls. They only take 30 min with 8 servings!</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>4 tablespoons butter</li>
+        <li>6 eggs</li>
+        <li>1/2 cup milk</li>
+        <li>1/8 teaspoon salt</li>
+        <li>8 slices bread</li>
+        <li>1 cup brown sugar</li>
+        <li>1/2 cup water</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+        <li>Melt two tablespoons of butter in a frying pan or skillet over medium high heat.</li>
+        <li>Beat together eggs, milk and salt. Dip bread one at a time into egg mixture and fry until light brown and egg is cooked.</li>
+        <li>After 4 slices of bread have been cooked, melt remaining 2 tablespoons butter. Cook remaining bread slices until light brown on both sides and egg is cooked.</li>
+        <li>Add brown sugar to pan</li>
+        <li>Stir until melted and sticky.</li>
+        <li>Add water and stir</li>
+        <li>Place french toast in caramel sauce</li>
+        <li>Remove from pan and serve!</li>
+    </ol>
+</body>
+</html>
